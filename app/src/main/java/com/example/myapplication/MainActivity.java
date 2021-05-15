@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
                 hsa.setText("");
                 hsb.setText("");
                 nghiem.setText("");
-
             }
 
         });
