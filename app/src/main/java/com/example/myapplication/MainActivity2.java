@@ -18,10 +18,10 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        txta = (EditText) findViewById(R.id.txta);
-        txtb = (EditText) findViewById(R.id.txtb);
-        txtc = (EditText) findViewById(R.id.txtc);
-        btn_giai = (Button) findViewById(R.id.btn_giai);
+        txta = (EditText)findViewById(R.id.txta);
+        txtb = (EditText)findViewById(R.id.txtb);
+        txtc = (EditText)findViewById(R.id.txtc);
+        btn_giai = (Button)findViewById(R.id.btn_giai);
         btn_giai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

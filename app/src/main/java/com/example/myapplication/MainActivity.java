@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 hsa.setText("");
                 hsb.setText("");
                 nghiem.setText("");
+                hsa.requestFocus(); // cho con trỏ về hsa
             }
 
         });

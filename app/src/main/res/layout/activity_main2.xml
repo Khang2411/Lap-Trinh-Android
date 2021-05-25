@@ -32,11 +32,11 @@
 
         <TextView
             android:id="@+id/hesoa"
-            android:layout_width="100dp"
+            android:layout_width="122dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="hệ số a" />
+            android:text="hệ số a :" />
 
         <EditText
             android:id="@+id/txta"
@@ -56,11 +56,11 @@
 
         <TextView
             android:id="@+id/hesob"
-            android:layout_width="100dp"
+            android:layout_width="122dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="hệ số b" />
+            android:text="hệ số b :" />
 
         <EditText
             android:id="@+id/txtb"
@@ -80,11 +80,11 @@
 
         <TextView
             android:id="@+id/hesoc"
-            android:layout_width="100dp"
+            android:layout_width="122dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="hệ số c" />
+            android:text="hệ số c :" />
 
         <EditText
             android:id="@+id/txtc"
