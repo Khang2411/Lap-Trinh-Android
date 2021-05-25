@@ -1,0 +1,9 @@
+
+git init
+git add .
+git commit -m "Android"
+git branch -M master                                                       
+git config --global user.email "hk24112000@gmail.com"
+git config --global user.name "Khang2411"
+git remote add origin https://github.com/Khang2411/Lap-Trinh-Android.git
+git push -f origin master
